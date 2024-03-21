@@ -13,6 +13,6 @@ public class GitlabProjectApiDTO {
     String name;
     String namespaceName;
     String path;
-    int createArt;
+    int createAt;
 
 }
